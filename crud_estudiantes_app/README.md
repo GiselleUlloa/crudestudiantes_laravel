@@ -1,6 +1,3 @@
-¡Claro! Aquí tienes un ejemplo de cómo documentar tu proyecto en un archivo `README.md` para tu aplicación `crud_estudiantes_laravel`. Puedes personalizarlo según las características específicas de tu aplicación:
-
-```markdown
 # CRUD Estudiantes Laravel
 
 Este proyecto es una aplicación web de CRUD (Crear, Leer, Actualizar, Eliminar) para gestionar estudiantes, desarrollada en **Laravel** con un diseño basado en **Bootstrap**.
